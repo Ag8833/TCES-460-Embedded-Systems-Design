@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+FaBo9Axis_MPU9250/MPU9250.py
+FaBo9Axis_MPU9250/__init__.py
+FaBo9Axis_MPU9250.egg-info/PKG-INFO
+FaBo9Axis_MPU9250.egg-info/SOURCES.txt
+FaBo9Axis_MPU9250.egg-info/dependency_links.txt
+FaBo9Axis_MPU9250.egg-info/top_level.txt

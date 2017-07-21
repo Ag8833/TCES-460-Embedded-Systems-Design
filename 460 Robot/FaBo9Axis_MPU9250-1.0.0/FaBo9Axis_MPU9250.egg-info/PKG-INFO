@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: FaBo9Axis-MPU9250
+Version: 1.0.0
+Summary: This is a library for the FaBo 9AXIS I2C Brick.
+Home-page: https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python/
+Author: FaBo
+Author-email: info@fabo.io
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: POSIX :: Linux
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Software Development
+Classifier: Topic :: System :: Hardware
